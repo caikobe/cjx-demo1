@@ -4,6 +4,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <hr>
     <div>我是詹姆斯</div>
+    <div>我是杜兰特</div>
     <hr>
     <div id="nav">
       <router-link to="/">Home</router-link> |
