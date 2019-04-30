@@ -13,6 +13,8 @@
     <h1>{{str}}</h1>
     <h1>{{reserveStr}}</h1>
     <hr>
+    <div>可以修改吗？</div>
+    <hr>
     <ul>
       state数组数据
       <li v-for="(item,index) in list1 " :key="index">{{item.name}}----{{item.price}}</li>
